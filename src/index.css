@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.owl-buttons {
+  display: block;
+}
+.owl-carousel:hover .owl-buttons {
+  display: block;
+}
+
+.owl-item {
+  text-align: center;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+  background: transparent;
+  color: #869791;
+  font-size: 40px;
+  line-height: 300px;
+  margin: 0;
+  padding: 0 60px;
+  position: absolute;
+  top: 0;
+}
+
+.owl-carousel .owl-nav button.owl-next {
+  background: white;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 30%;
+  right: 0px;
+}
+.owl-carousel .owl-nav button.owl-prev {
+  background: white;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 30%;
+  left: 0px;
+}
+.imageStyle {
+  border-radius: 10px;
+}
