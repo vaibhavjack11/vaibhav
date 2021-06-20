@@ -18,7 +18,7 @@ export default function Home(props) {
                 handleScrollToStates(0);
               }}
             >
-              Vaibhav Soni
+              Vaibhav_Soni
             </a>
           </h1>
           {/* <a href="index.html" className="logo mr-auto">
@@ -34,7 +34,7 @@ export default function Home(props) {
                     handleScrollToStates(0);
                   }}
                 >
-                  HOME
+                  INTRODUCTION
                 </a>
               </li>
               <li>
@@ -45,7 +45,7 @@ export default function Home(props) {
                     handleScrollToStates(340);
                   }}
                 >
-                  CATEGORIES
+                  EDUCATIONS
                 </a>
               </li>
               <li>
@@ -56,7 +56,7 @@ export default function Home(props) {
                     handleScrollToStates(1200);
                   }}
                 >
-                  PRODUCTS
+                  PROJECTS
                 </a>
               </li>
               <li>
@@ -67,7 +67,7 @@ export default function Home(props) {
                     handleScrollToStates(1700);
                   }}
                 >
-                  ABOUT US
+                  ABOUT ME
                 </a>
               </li>
               <li>
@@ -78,7 +78,7 @@ export default function Home(props) {
                     handleScrollToStates(2200);
                   }}
                 >
-                  GALLERY
+                  ACHIVEMENTS
                 </a>
               </li>
               <li>
@@ -89,13 +89,13 @@ export default function Home(props) {
                     handleScrollToStates(3500);
                   }}
                 >
-                  CONTACT US
+                  CONTACT ME
                 </a>
               </li>
             </ul>
           </nav>
           {/* .nav-menu */}
-          <div type="button" className="get-started-btn" data-toggle="modal" data-target="#formtoGetStart">Get Started</div>
+          <div type="button" className="get-started-btn" data-toggle="modal" data-target="#formtoGetStart">Drop</div>
         </div>
       </header>
       {/* End Header */}
@@ -107,7 +107,7 @@ export default function Home(props) {
       <main id="main">
         <section id="category" className="services section-bg">
           <div className="section-title">
-            <h2>CATEGORIES</h2>
+            <h2>EDUCATIONAL QUALIFICATIONS</h2>
           </div>
           <div className="row pl-4 pr-4">
             <div
@@ -282,7 +282,7 @@ export default function Home(props) {
         <section id="aboutId" className="about">
           <div className="container" data-aos="fade-up">
             <div className="section-title">
-              <h2>ABOUT US</h2>
+              <h2>ABOUT VAIBHAV</h2>
             </div>
             <div className="row content">
               <div className="col-lg-6">
@@ -316,7 +316,7 @@ export default function Home(props) {
         <section id="gallery" className="portfolio">
           <div className="container" data-aos="fade-up">
             <div className="section-title">
-              <h2>GALLERY</h2>
+              <h2>ACHIVEMENTS</h2>
             </div>
 
             <div
@@ -622,7 +622,7 @@ export default function Home(props) {
         <section id="contact" className="contact section-bg">
           <div className="container" data-aos="fade-up">
             <div className="section-title">
-              <h2>CONTACT US</h2>
+              <h2>CONTACT VAIBHAV</h2>
             </div>
             <div className="row">
               <div className="col-lg-5 d-flex align-items-stretch">
