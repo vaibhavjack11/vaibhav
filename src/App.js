@@ -3,7 +3,7 @@ import React from 'react'
 import "./App.css";
 import Home from "./Views/Home";
 import Getstart from "./GetStart"
-import {db,firebase} from "./FireBase"
+import {db} from "./FireBase"
 import Swal from "sweetalert2";
 class App extends React.Component {
   constructor(props) {

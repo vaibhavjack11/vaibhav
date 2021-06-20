@@ -12,7 +12,7 @@ export default function Home(props) {
         <div className="container d-flex align-items-center">
           <h1 className="logo mr-auto">
             <a
-              href="#"
+              href="#s"
               onClick={(e) => {
                 e.preventDefault();
                 handleScrollToStates(0);
@@ -28,7 +28,7 @@ export default function Home(props) {
             <ul>
               <li className="active">
                 <a
-                  href="#"
+                  href="#s"
                   onClick={(e) => {
                     e.preventDefault();
                     handleScrollToStates(0);
@@ -39,7 +39,7 @@ export default function Home(props) {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#s"
                   onClick={(e) => {
                     e.preventDefault();
                     handleScrollToStates(340);
@@ -50,7 +50,7 @@ export default function Home(props) {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#s"
                   onClick={(e) => {
                     e.preventDefault();
                     handleScrollToStates(1200);
@@ -61,7 +61,7 @@ export default function Home(props) {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#s"
                   onClick={(e) => {
                     e.preventDefault();
                     handleScrollToStates(1700);
@@ -72,7 +72,7 @@ export default function Home(props) {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#s"
                   onClick={(e) => {
                     e.preventDefault();
                     handleScrollToStates(2200);
@@ -83,7 +83,7 @@ export default function Home(props) {
               </li>
               <li>
                 <a
-                  href="#"
+                  href="#s"
                   onClick={(e) => {
                     e.preventDefault();
                     handleScrollToStates(3500);
@@ -305,7 +305,7 @@ export default function Home(props) {
                   efficient operation along with reduced maintenance cost.n
                   culpa qui officia deserunt mollit anim id est laborum.
                 </p>
-                {/* <a href="#" className="btn-learn-more">
+                {/* <a href="#s" className="btn-learn-more">
                   Learn More
                 </a> */}
               </div>
@@ -654,6 +654,7 @@ export default function Home(props) {
                     </p>
                   </div>
                   <iframe
+                    title=""
                     src="https://maps.google.com/maps?q=Near%20By%20Yaduvanshi%20Chowk,Tenduwa%20Road,%20Hirapur,%20Raipur-Chhattisgarh,%20CHHATTISGARH%20492099&t=&z=13&ie=UTF8&iwloc=&output=embed"
                     frameBorder={0}
                     style={{ border: 0, width: "100%", height: "290px" }}
@@ -777,7 +778,7 @@ export default function Home(props) {
                 <ul>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">PRIVACY POLICY</a>
+                    <a href="#s">PRIVACY POLICY</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
@@ -785,7 +786,7 @@ export default function Home(props) {
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">TESTIMONIALS</a>
+                    <a href="#s">TESTIMONIALS</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
@@ -793,7 +794,7 @@ export default function Home(props) {
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">CONTACT US</a>
+                    <a href="#s">CONTACT US</a>
                   </li>
                 </ul>
               </div>
@@ -802,23 +803,23 @@ export default function Home(props) {
                 <ul>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">Web Design</a>
+                    <a href="#s">Web Design</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">Web Development</a>
+                    <a href="#s">Web Development</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">Product Management</a>
+                    <a href="#s">Product Management</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">Marketing</a>
+                    <a href="#s">Marketing</a>
                   </li>
                   <li>
                     <i className="bx bx-chevron-right" />
-                    <a href="#">Graphic Design</a>
+                    <a href="#s">Graphic Design</a>
                   </li>
                 </ul>
               </div>
@@ -829,19 +830,19 @@ export default function Home(props) {
                   magna derita valies
                 </p>
                 <div className="social-links mt-3">
-                  <a href="#" className="twitter">
+                  <a href="#s" className="twitter">
                     <i className="bx bxl-twitter" />
                   </a>
-                  <a href="#" className="facebook">
+                  <a href="#s" className="facebook">
                     <i className="bx bxl-facebook" />
                   </a>
-                  <a href="#" className="instagram">
+                  <a href="#s" className="instagram">
                     <i className="bx bxl-instagram" />
                   </a>
-                  <a href="#" className="google-plus">
+                  <a href="#s" className="google-plus">
                     <i className="bx bxl-skype" />
                   </a>
-                  <a href="#" className="linkedin">
+                  <a href="#s" className="linkedin">
                     <i className="bx bxl-linkedin" />
                   </a>
                 </div>
